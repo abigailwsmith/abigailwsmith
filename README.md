@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Sophomore at St. Lawrence University, working on a Data Science and History double major. I enjoy working with sports analytics, especially baseball. I am also a member of the women's rowing team at SLU. 
+
 <!--
 **abigailwsmith/abigailwsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

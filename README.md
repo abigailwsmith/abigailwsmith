@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am a recent alum of St. Lawrence University, with a Data Science and History double major. I enjoy working with sports analytics, especially baseball. At St. Lawrence I was a member of the women's rowing team at SLU. Previously, I did competitive nordic skiing in Oslo, Norway. I enjoy coding in Python and R and I got my start using Scratch in first grade. I often post code related to sports analystics and data visualization. I have worked on the SCORE Network through a Summer Fellowship at St. Lawrence. I greatly enjoyed making data modules for a variety of sports, my favorite part was getting to prepare data for the modules. 
+I am a data scientist with a background in both quantitative analysis and history. I specialize in sports analytics and data visualization, drawing on my experience as a collegiate rower and competitive Nordic skier. I recently completed an honors thesis involving a sentiment analysis of the John Laurens and Alexander Hamilton correspondence using large language models.
 
 <!--
 **abigailwsmith/abigailwsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
